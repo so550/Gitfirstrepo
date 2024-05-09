@@ -1,2 +1,4 @@
 sword
 wall
+ball
+basket
